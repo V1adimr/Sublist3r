@@ -112,7 +112,7 @@ Short Form    | Long Form     | Description
 -e            | --engines     | Specify a comma-separated list of search engines
 -o            | --output      | Save the results to text file
 -h            | --help        | show the help message and exit
-
+-i            | --ip          | Allow converting domin to host
 ### Examples
 
 * To list all the basic options and switches use -h switch:
